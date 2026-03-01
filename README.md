@@ -16,7 +16,7 @@
 ---
 
 ## ARS - Project
-ARS is a lightweight Clash of Clans game server. It has been written by **Astral & cartyrty** from **Greedycell & Apexpowa**.
+ARS is a lightweight Clash of Clans game server. It has been written by **Astral** from **Greedycell & Apexpowa**.
 The goal of this emulator is to ensure a clean, easy-to-understand code environment. ARS uses async operators and MongoDB servers will be used to save players/clans.
 
 ---
@@ -78,5 +78,6 @@ After starting the server, use the **Apexpowa client** available in the **Releas
 **Apexpowa**'s resources and programs are protected under the GPL-3.0 license. **Apexpowa**'s resources and programs are created by the (**Apexpowa**) team.
 **Apexpowa** is **NOT** affiliated with 'Supercell, Oy'.
 **Apexpowa** does **NOT** own 'Clash of Clans', 'Boom Beach', 'Clash Royale', and/or 'Hay Day'.
+
 
 
