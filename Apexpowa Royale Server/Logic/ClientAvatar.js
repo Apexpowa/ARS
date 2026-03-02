@@ -82,6 +82,7 @@ class ClientAvatar {
     self.writeVInt(0)
 
     // Tutorials
+    self.writeVInt(7) // 7 = Completed Tutorial
     for (let i = 0; i < 5; i++) self.writeVInt(0)
 
     self.writeVInt(-1) // Null
